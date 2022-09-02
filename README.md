@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @babzmann
+- 👋 Hi, I’m Tunde Oladiti
 - 👀 I’m interested in CI/CD and SRE
 - 🌱 I’m currently learning variety of DeVops tools 
 - 💞️ I’m looking to collaborate on Enterprise large scale DeVops projects
